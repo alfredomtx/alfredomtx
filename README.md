@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=75&duration=1500&pause=500&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Alfredo+Menezes;Welcome+to+my+GitHub+:)" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=75&duration=1500&pause=500&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=220&lines=Hello+there!;Welcome+to+my+GitHub+:)" alt="Typing SVG" /></a>
 </h1>
 
 <div align="center">
@@ -10,7 +10,7 @@
 <br>
 
 - 📖 Pursuing a diploma in Data Analytics @ [Trebas Institute](https://www.trebas.com/programs/business-and-technology-programs/analytics-big-data-and-business-intelligence-montreal). 
-- 🤖 I love automation! I'm that guy that automates every single repetive task.
+- 🤖 I love automation! I'm that guy that automates every repetive task.
 - 🧑‍💻 Currently working as a Fullstack PHP Developer.
 - 💻 Learning Rust🦀 and working with on personal projects. 
 
