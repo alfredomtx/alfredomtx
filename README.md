@@ -86,9 +86,8 @@
 <br>
 
 <div align="left">
-
-<img src="https://github-readme-stats.vercel.app/api?username=alfredomtx&hide=issues&count_private=true&show_icons=true&count_private=true&include_all_commits=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredomtx&layout=compact&card_width=250" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfredomtx&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredomtx&layout=compact&theme=dracula" />
 </div>
 
 
