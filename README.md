@@ -6,17 +6,17 @@
 <a href="https://github.com/alfredomtx">
     <img src="https://github-stats-alpha.vercel.app/api?username=alfredomtx&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
-</div>
 <br>
+<img src="https://visitor-badge.glitch.me/badge?page_id=alfredomtx.alfredomtx">
+  
+</div>
 
 - 📖 Pursuing a diploma in Data Analytics @ [Trebas Institute](https://www.trebas.com/programs/business-and-technology-programs/analytics-big-data-and-business-intelligence-montreal). 
 - 🤖 I love automation! I'm that guy that automates every repetive task.
 - 🧑‍💻 Currently working as a Fullstack PHP Developer.
 - 💻 Learning Rust🦀 and working with on personal projects. 
 
-<br>
-
-> Languages, tools and technologies that I have **experience** with:
+### Languages, tools and technologies that I have **experience** with:
 
 <p>
   <small>Backend:</small><br>
@@ -70,7 +70,7 @@
 |Title | Technologies|
 |--|--|
 | [Coupon API](https://github.com/alfredomtx/coupon-api)| ![Rust](https://img.shields.io/badge/Rust-black.svg?logo=rust&logoColor=white)  ![Actix](https://img.shields.io/badge/Actix-black.svg?logo=&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-07405e.svg?logo=mysql&logoColor=white) <br> ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff) ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white)   |
-| [User Management API](https://github.com/alfredomtx/user-management-api)|  ![Java](https://custom-icon-badges.herokuapp.com/badge/Java-red.svg?logo=java&logoColor=white)  ![Spring](https://custom-icon-badges.herokuapp.com/badge/Spring-green.svg?logo=spring&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white) <br> ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white)   ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-orange.svg?logo=rabbitmq&logoColor=white) 
+| [User Management API](https://github.com/alfredomtx/user-management-api)|  ![Java](https://custom-icon-badges.herokuapp.com/badge/Java-red.svg?logo=java&logoColor=white)  ![Spring](https://custom-icon-badges.herokuapp.com/badge/Spring-green.svg?logo=spring&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white) <br> ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-orange.svg?logo=rabbitmq&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white) 
 
 
 </td><td>
