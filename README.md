@@ -45,7 +45,8 @@
   <small>Databases:</small><br>
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-07405e.svg?logo=mysql&logoColor=white"></a>
   <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-  <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-red.svg?logo=oracle&logoColor=white"></a>
+  <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-orange.svg?logo=oracle&logoColor=white"></a>
+  <a href="#"><img alt="Redis" src ="https://img.shields.io/badge/Redis-red.svg?logo=redis&logoColor=white"></a>
 
   <br>
   <small>Other technologies:<small><br>
@@ -69,7 +70,7 @@
 
 |Title | Technologies|
 |--|--|
-| [Coupon API](https://github.com/alfredomtx/coupon-api)| ![Rust](https://img.shields.io/badge/Rust-black.svg?logo=rust&logoColor=white)  ![Actix](https://img.shields.io/badge/Actix-black.svg?logo=&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-07405e.svg?logo=mysql&logoColor=white) <br> ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff) ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white)   |
+| [Coupon API](https://github.com/alfredomtx/coupon-api)| ![Rust](https://img.shields.io/badge/Rust-black.svg?logo=rust&logoColor=white)  ![Actix](https://img.shields.io/badge/Actix-black.svg?logo=&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-07405e.svg?logo=mysql&logoColor=white) <br>  ![Redis](https://img.shields.io/badge/Redis-red.svg?logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff) ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white) |
 | [User Management API](https://github.com/alfredomtx/user-management-api)|  ![Java](https://custom-icon-badges.herokuapp.com/badge/Java-red.svg?logo=java&logoColor=white)  ![Spring](https://custom-icon-badges.herokuapp.com/badge/Spring-green.svg?logo=spring&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white) <br> ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-orange.svg?logo=rabbitmq&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white) 
 
 
