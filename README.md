@@ -28,7 +28,7 @@
   
   <br>
   <small>Frameworks:</small><br>
-  <a href="https://github.com/search?q=user%3Aalfredomtx+language%3Aphp"><img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-777BB4.svg?logo=CodeIgniter&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Aalfredomtx+language%3Aphp"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-777BB4.svg?logo=Laravel&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Aalfredomtx+language%3Arust"><img alt="actix" src="https://img.shields.io/badge/Actix-black.svg?logo=actix&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Aalfredomtx+language%3Ajava"><img alt="Spring" src="https://custom-icon-badges.herokuapp.com/badge/Spring-green.svg?logo=spring&logoColor=white"></a>
   
