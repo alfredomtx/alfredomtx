@@ -88,7 +88,7 @@
 
 <div align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfredomtx&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredomtx&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alfredomtx&layout=compact&theme=dracula" />
 </div>
 
 
