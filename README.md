@@ -3,18 +3,21 @@
 </h1>
 
 <div align="center">
-<a href="https://github.com/alfredomtx">
-    <img src="https://github-stats-alpha.vercel.app/api?username=alfredomtx&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
-<br>
-<img src="https://visitor-badge.glitch.me/badge?page_id=alfredomtx.alfredomtx">
+  <a href="https://github.com/alfredomtx">
+      <img src="https://github-stats-alpha.vercel.app/api?username=alfredomtx&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+  </a>
+  <br>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=alfredomtx.alfredomtx">
+  <a href="https://www.linkedin.com/in/alfredo-menezes/">
+    <img src="https://img.shields.io/badge/-Alfredo%20Menezes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/abhinandantrilokia/" />
+  </a>
   
 </div>
 
 - 📖 Pursuing a diploma in Data Analytics @ [Trebas Institute](https://www.trebas.com/programs/business-and-technology-programs/analytics-big-data-and-business-intelligence-montreal). 
 - 🤖 I love automation! I'm that guy that automates every repetive task.
 - 🧑‍💻 Currently working as a Fullstack PHP Developer.
-- 💻 Learning Rust🦀 and working with on personal projects. 
+- 💻 Learning Rust🦀 and working with on side projects. 
 
 ### Languages, tools and technologies that I have **experience** with:
 
@@ -63,7 +66,7 @@
 
 <hr>
 
-### 🖥️ My Projects
+### 🖥️ My side projects
 
 <table>
 <tr><th>Open Source</th><th>Closed Source</th></tr>
@@ -84,7 +87,6 @@
 
 </td></tr>
 </table>
-
 
 <br>
 
