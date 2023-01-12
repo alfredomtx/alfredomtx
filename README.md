@@ -94,7 +94,7 @@
 </div>
 
 
-## Social Networks
+## Connect with me:
 <div align="left">
   <a href="https://www.linkedin.com/in/alfredo-menezes/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="32" alt="linkedin logo"  />
