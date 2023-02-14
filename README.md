@@ -17,7 +17,7 @@
 
 - 📖 Pursuing a diploma in Data Analytics @ [Trebas Institute](https://www.trebas.com/programs/business-and-technology-programs/analytics-big-data-and-business-intelligence-montreal). 
 - 🤖 I love automation! I'm that guy that automates every repetive task.
-- 🧑‍💻 Currently working as a Fullstack PHP Developer.
+- 🧑‍💻 I'm a Fullstack PHP Developer, and freaking love Laravel ❤️.
 - 💻 Learning Rust🦀 and working with on side projects. 
 
 ### Languages, tools and technologies that I have **experience** with:
