@@ -84,7 +84,7 @@
 
 |Title | Technologies|
 |--|--|
-| [OldBot (Desktop)](https://oldbot.com.br/index.php)| ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-limegreen.svg?logo=autohotkey&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white) ![Java](https://custom-icon-badges.herokuapp.com/badge/Java-red.svg?logo=java&logoColor=white) <br> ![Spring](https://custom-icon-badges.herokuapp.com/badge/Spring-green.svg?logo=spring&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-07405e.svg?logo=mysql&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-orange.svg?logo=rabbitmq&logoColor=white) <br> ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff) ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white)   
+| [OldBot (Desktop)](https://oldbot.com.br/index.php)| ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-limegreen.svg?logo=autohotkey&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-07405e.svg?logo=mysql&logoColor=white) <br> ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-orange.svg?logo=rabbitmq&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff) ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white)   
 
 </td></tr>
 </table>
