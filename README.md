@@ -25,15 +25,12 @@
   <small>Backend:</small><br>
   <a href="https://github.com/search?q=user%3Aalfredomtx+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Aalfredomtx+language%3Arust"><img alt="Rust" src="https://img.shields.io/badge/Rust-black.svg?logo=rust&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3Aalfredomtx+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-red.svg?logo=java&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Aalfredomtx+language%3Aautohotkey"><img alt="AutoHotkey" src="https://img.shields.io/badge/AutoHotkey-limegreen.svg?logo=autohotkey&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3AMuriloChianfa+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
   
   <br>
   <small>Frameworks:</small><br>
   <a href="https://github.com/search?q=user%3Aalfredomtx+language%3Aphp"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-777BB4.svg?logo=Laravel&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3Aalfredomtx+language%3Arust"><img alt="actix" src="https://img.shields.io/badge/Actix-black.svg?logo=actix&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3Aalfredomtx+language%3Ajava"><img alt="Spring" src="https://custom-icon-badges.herokuapp.com/badge/Spring-green.svg?logo=spring&logoColor=white"></a>
   
   <br>
   <small>Frontend:</small><br>
@@ -48,7 +45,6 @@
   <small>Databases:</small><br>
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-07405e.svg?logo=mysql&logoColor=white"></a>
   <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-  <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-orange.svg?logo=oracle&logoColor=white"></a>
   <a href="#"><img alt="Redis" src ="https://img.shields.io/badge/Redis-red.svg?logo=redis&logoColor=white"></a>
 
   <br>
@@ -56,7 +52,6 @@
   <a href="#"><img alt="Rest API" src="https://img.shields.io/badge/API-REST-blue">
   <a href="#"><img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-orange.svg?logo=rabbitmq&logoColor=white">
   <a href="https://github.com/search?q=user%3Aalfredomtx+language%3Adocker"><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff"></a>
-  <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-orange.svg?logo=git&logoColor=white">
   <a href="#"><img alt="" src="https://img.shields.io/badge/Windows-darkblue?style=flat&logo=Windows&logoColor=fff"></a>
   <a href="#"><img alt="" src="https://img.shields.io/badge/Linux-000?style=flat&logo=linux&logoColor=fff"></a>
@@ -64,28 +59,8 @@
 
 </p>
 
-<hr>
-
-### 🖥️ My side projects
-
-<table>
-<tr><th>Open Source</th><th>Closed Source</th></tr>
-<tr><td>
-
-|Title | Technologies|
-|--|--|
-| [Flight Search API](https://github.com/alfredomtx/trip-builder)| ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white)  ![Laravel](https://img.shields.io/badge/Laravel-777BB4.svg?logo=Laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-07405e.svg?logo=mysql&logoColor=white) <br>  ![REST](https://img.shields.io/badge/API-REST-blue)
-| [Coupon API](https://github.com/alfredomtx/coupon-api)| ![Rust](https://img.shields.io/badge/Rust-black.svg?logo=rust&logoColor=white)  ![Actix](https://img.shields.io/badge/Actix-black.svg?logo=&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-07405e.svg?logo=mysql&logoColor=white) <br>  ![Redis](https://img.shields.io/badge/Redis-red.svg?logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff) ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white) |
-| [User Management API](https://github.com/alfredomtx/user-management-api)|  ![Java](https://custom-icon-badges.herokuapp.com/badge/Java-red.svg?logo=java&logoColor=white)  ![Spring](https://custom-icon-badges.herokuapp.com/badge/Spring-green.svg?logo=spring&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white) <br> ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-orange.svg?logo=rabbitmq&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white) 
-
-
 </td><td>
 
-|Title | Technologies|
-|--|--|
-| [OldBot (Desktop)](https://oldbot.com.br/index.php)| ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-limegreen.svg?logo=autohotkey&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-07405e.svg?logo=mysql&logoColor=white) <br> ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-orange.svg?logo=rabbitmq&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff) ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white)   
-
-</td></tr>
 </table>
 
 <br>
