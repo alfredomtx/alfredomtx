@@ -5,8 +5,8 @@
 <br>
 
 - 🤖 I love automation! I'm that guy that automates every repetive task.
-- 🧑‍💻 I'm a Fullstack PHP Developer, and freaking love Laravel ❤️.
-- 💻 Learning Rust🦀 and working with it on side projects. 
+- 🧑‍💻 I'm a Fullstack PHP Developer, and freaking love Laravel.
+- 🦀 Learning Rust and working with it on side projects. 
 
 ### Languages, tools and technologies that I have **experience** with:
 
