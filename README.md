@@ -2,27 +2,16 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=75&duration=1500&pause=500&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=225&lines=Hello+there!;Welcome+to+my+GitHub+:)" alt="Typing SVG" /></a>
 </h1>
 
-<div align="center">
-  <a href="https://github.com/alfredomtx">
-      <img src="https://github-stats-alpha.vercel.app/api?username=alfredomtx&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-  </a>
-  <br>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=alfredomtx.alfredomtx">
-  <a href="https://www.linkedin.com/in/alfredo-menezes/">
-    <img src="https://img.shields.io/badge/-Alfredo%20Menezes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/abhinandantrilokia/" />
-  </a>
-  
-</div>
 <br>
 
 - 🤖 I love automation! I'm that guy that automates every repetive task.
 - 🧑‍💻 I'm a Fullstack PHP Developer, and freaking love Laravel ❤️.
-- 💻 Learning Rust🦀 and working with on side projects. 
+- 💻 Learning Rust🦀 and working with it on side projects. 
 
 ### Languages, tools and technologies that I have **experience** with:
 
 <p>
-  <small>Backend:</small><br>
+  <small>Backend / Scripting:</small><br>
   <a href="https://github.com/search?q=user%3Aalfredomtx+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Aalfredomtx+language%3Arust"><img alt="Rust" src="https://img.shields.io/badge/Rust-black.svg?logo=rust&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Aalfredomtx+language%3Aautohotkey"><img alt="AutoHotkey" src="https://img.shields.io/badge/AutoHotkey-limegreen.svg?logo=autohotkey&logoColor=white"></a>
@@ -61,11 +50,11 @@
 
 <br>
 
-<div align="left">
+
+<div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfredomtx&theme=dracula" />
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alfredomtx&layout=compact&theme=dracula" />
 </div>
-
 
 ## Connect with me:
 <div align="left">
