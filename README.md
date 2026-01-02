@@ -26,7 +26,6 @@
   <a href="https://github.com/search?q=user%3Aalfredomtx+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Aalfredomtx+language%3Arust"><img alt="Rust" src="https://img.shields.io/badge/Rust-black.svg?logo=rust&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Aalfredomtx+language%3Aautohotkey"><img alt="AutoHotkey" src="https://img.shields.io/badge/AutoHotkey-limegreen.svg?logo=autohotkey&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3AMuriloChianfa+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
   
   <br>
   <small>Frameworks:</small><br>
